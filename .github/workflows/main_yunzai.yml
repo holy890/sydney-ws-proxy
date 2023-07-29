@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'yunzai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_209C2CFAF3DD409BA932EF02B32E32BF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_858CBC15FECE4F34BFF3573AFBC72154 }}
           package: .
